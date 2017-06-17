@@ -18,3 +18,4 @@ _六月，原不是一个适合离开的季节，不是烈日，就是暴雨，�
 - [事件绑定、事件监听、事件委托](https://github.com/linchwei/blog/issues/4)
 - [深入了解JavaScript之作用域链](https://github.com/linchwei/blog/issues/5)
 - [深入了解JavaScript之优化作用域链](https://github.com/linchwei/blog/issues/6)
+- [函数节流（throttle）与函数去抖（debounce）](https://github.com/linchwei/blog/issues/7)
