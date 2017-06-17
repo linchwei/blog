@@ -16,3 +16,4 @@ _六月，原不是一个适合离开的季节，不是烈日，就是暴雨，�
 - [利用数组巧妙的处理数据](https://github.com/linchwei/blog/issues/2)
 - [数组方法大全](https://github.com/linchwei/blog/issues/3)
 - [事件绑定、事件监听、事件委托](https://github.com/linchwei/blog/issues/4)
+- [深入了解JavaScript，从作用域链开始 （一）](https://github.com/linchwei/blog/issues/5)
