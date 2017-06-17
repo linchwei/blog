@@ -12,6 +12,6 @@
 ### June
 _六月，原不是一个适合离开的季节，不是烈日，就是暴雨，让人不得不走走停停，频频回望。然而，哪个季节又适合离开呢？六月，确实得离开了。_
 
-*[数组去重](https://github.com/linchwei/blog/issues/1)*
-*[利用数组巧妙的处理数据](https://github.com/linchwei/blog/issues/2)*
-*[数组方法大全](https://github.com/linchwei/blog/issues/3)*
+1. [数组去重](https://github.com/linchwei/blog/issues/1)
+2. [利用数组巧妙的处理数据](https://github.com/linchwei/blog/issues/2)
+3. [数组方法大全](https://github.com/linchwei/blog/issues/3)
