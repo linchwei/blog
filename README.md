@@ -14,10 +14,11 @@
 ### June
 _六月，原不是一个适合离开的季节，不是烈日，就是暴雨，让人不得不走走停停，频频回望。然而，哪个季节又适合离开呢？六月，确实得离开了。_
 
-- [数组去重](https://github.com/linchwei/blog/issues/1)
-- [利用数组巧妙的处理数据](https://github.com/linchwei/blog/issues/2)
-- [数组方法大全](https://github.com/linchwei/blog/issues/3)
-- [事件绑定、事件监听、事件委托](https://github.com/linchwei/blog/issues/4)
-- [深入了解JavaScript之作用域链](https://github.com/linchwei/blog/issues/5)
-- [深入了解JavaScript之优化作用域链](https://github.com/linchwei/blog/issues/6)
+- [Flex 布局：语法篇](https://github.com/linchwei/blog/issues/8)
 - [函数节流（throttle）与函数去抖（debounce）](https://github.com/linchwei/blog/issues/7)
+- [深入了解JavaScript之优化作用域链](https://github.com/linchwei/blog/issues/6)
+- [深入了解JavaScript之作用域链](https://github.com/linchwei/blog/issues/5)
+- [事件绑定、事件监听、事件委托](https://github.com/linchwei/blog/issues/4)
+- [数组方法大全](https://github.com/linchwei/blog/issues/3)
+- [利用数组巧妙的处理数据](https://github.com/linchwei/blog/issues/2)
+- [数组去重](https://github.com/linchwei/blog/issues/1)
