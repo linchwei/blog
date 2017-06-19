@@ -14,7 +14,8 @@
 ### June
 _六月，原不是一个适合离开的季节，不是烈日，就是暴雨，让人不得不走走停停，频频回望。然而，哪个季节又适合离开呢？六月，确实得离开了。_
 
-- [彻底深刻理解js原型链之prototype,__proto__以及constructor(一)](https://github.com/linchwei/blog/issues/9)
+- [彻底深刻理解js原型链之prototype,__proto__以及constructor(二)](https://github.com/linchwei/blog/issues/11)
+- [彻底深刻理解js原型链之prototype,__proto__以及constructor(一)](https://github.com/linchwei/blog/issues/10)
 - [彻底深刻理解js之this](https://github.com/linchwei/blog/issues/9)
 - [Flex 布局：语法篇](https://github.com/linchwei/blog/issues/8)
 - [函数节流（throttle）与函数去抖（debounce）](https://github.com/linchwei/blog/issues/7)
