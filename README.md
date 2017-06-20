@@ -14,6 +14,7 @@
 ### June
 _六月，原不是一个适合离开的季节，不是烈日，就是暴雨，让人不得不走走停停，频频回望。然而，哪个季节又适合离开呢？六月，确实得离开了。_
 
+- [防抖（underscore）](https://github.com/linchwei/blog/issues/13)
 - [Javascript闭包（Closure）](https://github.com/linchwei/blog/issues/12)
 - [彻底深刻理解js原型链之prototype,__proto__以及constructor(二)](https://github.com/linchwei/blog/issues/11)
 - [彻底深刻理解js原型链之prototype,__proto__以及constructor(一)](https://github.com/linchwei/blog/issues/10)
