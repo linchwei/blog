@@ -18,6 +18,13 @@ _九月，记忆开始随着落叶的飘零点缀着某些人的故事，在那�
 ### July
 _七月，注定了是离愁的日子，学子的归乡，桃李的安静，慢慢的消然来临，而这个夏日里依然酷热非常，学着众人，收拾着行李，亦拾起了心情，连同曾经一起打包，只愿不要再次乱了花季，错认了他人。然后，回头微笑，转身再离去……_
 
+- [Set和Map数据结构](https://github.com/linchwei/blog/issues/23)
+- [Symbol](https://github.com/linchwei/blog/issues/22)
+- [对象的扩展](https://github.com/linchwei/blog/issues/21)
+- [数组的扩展](https://github.com/linchwei/blog/issues/20)
+- [函数的扩展](https://github.com/linchwei/blog/issues/19)
+- [数值的扩展](https://github.com/linchwei/blog/issues/18)
+- [字符串的扩展](https://github.com/linchwei/blog/issues/17)
 - [变量的解构赋值](https://github.com/linchwei/blog/issues/16)
 - [let 和 const 命令](https://github.com/linchwei/blog/issues/15)
 
